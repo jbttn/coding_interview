@@ -1,2 +1,1 @@
-coding_interview
-================
+My solutions for questions in "Cracking the Coding Interview".
